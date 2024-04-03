@@ -1,1 +1,1 @@
-# RNN-for-Music-Generation
+# Deep-Learning-for-Music-Generation
