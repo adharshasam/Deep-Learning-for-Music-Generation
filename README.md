@@ -4,4 +4,4 @@ This project was done for the SUTD ESD elective: <a href="https://esd.sutd.edu.s
 
 Click <a href="https://github.com/adharshasam/Deep-Learning-for-Music-Generation/blob/main/Project%20Report/Project_Report.ipynb" target="_blank">HERE</a> to access the comprehensive report detailing the implementation of Recurrent Neural Networks used to generate 25 musical notes. Take a listen! 
 
-https://github.com/adharshasam/Deep-Learning-for-Music-Generation/assets/64684527/f221f71c-f883-477b-9f0f-e5c5e90abdb4
+https://github.com/adharshasam/Deep-Learning-for-Music-Generation/assets/64684527/53d8566a-6818-4575-a612-1641798cc23c
